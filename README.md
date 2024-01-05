@@ -1,10 +1,10 @@
 # MasterBioMedicine - Scientific Programming - L5 - Collaborative Story 
 Short Description
 
-## To create a new env
+## Create a new venv folder inside the folder L5_TeamO_Collaborative_Story
 > python -m venv PATH
 
-### Example
+### Example (make sure to leave the last '\venv')
 > python -m venv D:\L5_TeamO_Collaborative_Story\venv
 
 ## Open your terminal inside the folder L5_TeamO_Collaborative_Story and Activate the env with:

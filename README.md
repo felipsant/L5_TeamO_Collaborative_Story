@@ -1,2 +1,6 @@
 # MasterBioMedicine - Scientific Programming - L5 - Collaborative Story 
-Short Description
+Group:
+Felipe Santiago
+Celia Cruz
+Júlia Arbat
+
